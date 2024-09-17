@@ -1,0 +1,7 @@
+1
+a. Running store should print out the items, individual price, and total price of all the items
+
+d. I expect it to still work, since both are a 'Purchase" object
+
+5
+g. The code could cause misalignment if one block is taller than another
